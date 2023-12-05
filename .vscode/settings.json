@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0409446c-0e3b-464f-bf8a-6bd47e0922ad/resourceGroups/pk-dev-2/providers/Microsoft.Web/sites/rental-app-pk",
+    "appService.deploySubpath": "."
+}
